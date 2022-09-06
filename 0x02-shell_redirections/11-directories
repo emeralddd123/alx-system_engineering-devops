@@ -1,1 +1,2 @@
-[H[2J[3J
+#!/bin/bash
+find ./* -type d -printf | wc - l
